@@ -1,2 +1,2 @@
 # News-Application-
-A simple News Application where I use Room Database, Retrofit, Paging, MVVM Architecture etc.
+A simple News Application where I use REST API, Room Database, Retrofit, Paging, MVVM Architecture etc.
